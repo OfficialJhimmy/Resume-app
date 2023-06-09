@@ -1,0 +1,16 @@
+.cvbody__projects--container {
+    margin-bottom: 40px;
+}
+
+.cvbody__projects--children{
+    margin-bottom: 20px;
+}
+
+.cvbody__projects--children a {
+    font-size: 20px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    gap: 7px;
+    margin-bottom: 3px;
+}
